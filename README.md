@@ -50,8 +50,3 @@ Goals:
 - [x] Work at HMC
 - [ ] Retire
 
-<!-- 
-Must use markdown elements:
-    - Checkboxes
--->
-
