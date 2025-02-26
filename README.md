@@ -19,7 +19,7 @@
 ### How to reach me?
 💬 kherrera@cs.hmc.edu
 
-### Bio
+### Bio+
 📫 I'm a Harvey Mudd alumn and have worked there as the **Curriculum Coordinator** since graduating in 2017. My pronouns are he/him. I love teaching and helping others learn different skills and technologies. Here is my [GitHub Profile](https://github.com/kherrera1517). I know a couple *languages* (both programing and lingusitic)!
 
 | Languages | Proficiency |
@@ -40,9 +40,18 @@ The 4 types of cats I have are:
 - Siamese Cat
 - Fake Siamese Cat
 
+My favorite types of fruits are:
+1) Citrus
+2) Berries
+3) Apples
+
+Goals:
+- [x] Graduate from HMC
+- [x] Work at HMC
+- [ ] Retire
+
 <!-- 
 Must use markdown elements:
-    - Ordered list
     - Checkboxes
 -->
 
